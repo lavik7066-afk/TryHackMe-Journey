@@ -9,4 +9,4 @@
 
 ## Screenshots / Evidence
 Below is my completion badge:
-![Room Completed](https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6a3ada003d48b52090b8615b)
+![Room Completed]([https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6a3ada003d48b52090b8615b])
